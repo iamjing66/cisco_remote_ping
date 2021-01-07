@@ -6,4 +6,4 @@
 
 ------
 
-oid查询网址: [oid](https://cric.grenoble.cnrs.fr/Administrateurs/Outils/MIBS/?oid=​)
+oid查询网址: [snmp oid](https://cric.grenoble.cnrs.fr/Administrateurs/Outils/MIBS/?oid=​)
